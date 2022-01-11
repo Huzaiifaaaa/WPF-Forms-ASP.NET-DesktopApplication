@@ -1,0 +1,12 @@
+C:\Users\pardo\source\repos\PopGeorge2021 Project,\TelepteanDarius2021\PopGeorge2021 Project,\obj\Debug\TelepteanDarius2021.csproj.AssemblyReference.cache
+C:\Users\pardo\source\repos\PopGeorge2021 Project,\TelepteanDarius2021\PopGeorge2021 Project,\obj\Debug\PopGeorge2021_Project_.Add.resources
+C:\Users\pardo\source\repos\PopGeorge2021 Project,\TelepteanDarius2021\PopGeorge2021 Project,\obj\Debug\PopGeorge2021_Project_.Chart.resources
+C:\Users\pardo\source\repos\PopGeorge2021 Project,\TelepteanDarius2021\PopGeorge2021 Project,\obj\Debug\PopGeorge2021_Project_.Details.resources
+C:\Users\pardo\source\repos\PopGeorge2021 Project,\TelepteanDarius2021\PopGeorge2021 Project,\obj\Debug\PopGeorge2021_Project_.Main.resources
+C:\Users\pardo\source\repos\PopGeorge2021 Project,\TelepteanDarius2021\PopGeorge2021 Project,\obj\Debug\PopGeorge2021_Project_.Properties.Resources.resources
+C:\Users\pardo\source\repos\PopGeorge2021 Project,\TelepteanDarius2021\PopGeorge2021 Project,\obj\Debug\TelepteanDarius2021.csproj.GenerateResource.cache
+C:\Users\pardo\source\repos\PopGeorge2021 Project,\TelepteanDarius2021\PopGeorge2021 Project,\obj\Debug\TelepteanDarius2021.csproj.CoreCompileInputs.cache
+C:\Users\pardo\source\repos\PopGeorge2021 Project,\TelepteanDarius2021\PopGeorge2021 Project,\obj\Debug\PopGeorge2021 Project,.exe
+C:\Users\pardo\source\repos\PopGeorge2021 Project,\TelepteanDarius2021\PopGeorge2021 Project,\obj\Debug\PopGeorge2021 Project,.pdb
+C:\Users\pardo\source\repos\PopGeorge2021 Project,\TelepteanDarius2021\PopGeorge2021 Project,\bin\Debug\PopGeorge2021 Project,.exe
+C:\Users\pardo\source\repos\PopGeorge2021 Project,\TelepteanDarius2021\PopGeorge2021 Project,\bin\Debug\PopGeorge2021 Project,.pdb

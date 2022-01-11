@@ -1,0 +1,4 @@
+1-Make sure you have the .NET CORE Installed.
+2-Create the database by executing the SQL File given.
+3-Make a connection between the Project & the database table.
+4-GRANT ACCESS RIGHTS TO USER.

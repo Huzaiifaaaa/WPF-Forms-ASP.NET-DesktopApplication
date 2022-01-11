@@ -1,0 +1,23 @@
+C:\Users\pardo\source\repos\PopGeorge2021 Project,\TelepteanDarius2021\PopGeorge2021 Project,\bin\Debug\PopGeorge2021 Project,.exe
+C:\Users\pardo\source\repos\PopGeorge2021 Project,\TelepteanDarius2021\PopGeorge2021 Project,\bin\Debug\PopGeorge2021 Project,.pdb
+C:\Users\pardo\source\repos\PopGeorge2021 Project,\TelepteanDarius2021\PopGeorge2021 Project,\obj\Debug\PopGeorge2021_Project_.Add.resources
+C:\Users\pardo\source\repos\PopGeorge2021 Project,\TelepteanDarius2021\PopGeorge2021 Project,\obj\Debug\PopGeorge2021_Project_.Chart.resources
+C:\Users\pardo\source\repos\PopGeorge2021 Project,\TelepteanDarius2021\PopGeorge2021 Project,\obj\Debug\PopGeorge2021_Project_.Details.resources
+C:\Users\pardo\source\repos\PopGeorge2021 Project,\TelepteanDarius2021\PopGeorge2021 Project,\obj\Debug\PopGeorge2021_Project_.Main.resources
+C:\Users\pardo\source\repos\PopGeorge2021 Project,\TelepteanDarius2021\PopGeorge2021 Project,\obj\Debug\PopGeorge2021_Project_.Properties.Resources.resources
+C:\Users\pardo\source\repos\PopGeorge2021 Project,\TelepteanDarius2021\PopGeorge2021 Project,\obj\Debug\TelepteanDarius2021 Project.csproj.GenerateResource.cache
+C:\Users\pardo\source\repos\PopGeorge2021 Project,\TelepteanDarius2021\PopGeorge2021 Project,\obj\Debug\TelepteanDarius2021 Project.csproj.CoreCompileInputs.cache
+C:\Users\pardo\source\repos\PopGeorge2021 Project,\TelepteanDarius2021\PopGeorge2021 Project,\obj\Debug\PopGeorge2021 Project,.exe
+C:\Users\pardo\source\repos\PopGeorge2021 Project,\TelepteanDarius2021\PopGeorge2021 Project,\obj\Debug\PopGeorge2021 Project,.pdb
+C:\Users\huzai\Desktop\Windows-Form-Fiverr-3\TelepteanDarius2021 Project\PopGeorge2021 Project,\bin\Debug\PopGeorge2021 Project,.exe
+C:\Users\huzai\Desktop\Windows-Form-Fiverr-3\TelepteanDarius2021 Project\PopGeorge2021 Project,\bin\Debug\PopGeorge2021 Project,.pdb
+C:\Users\huzai\Desktop\Windows-Form-Fiverr-3\TelepteanDarius2021 Project\PopGeorge2021 Project,\obj\Debug\TelepteanDarius2021 Project.csproj.AssemblyReference.cache
+C:\Users\huzai\Desktop\Windows-Form-Fiverr-3\TelepteanDarius2021 Project\PopGeorge2021 Project,\obj\Debug\PopGeorge2021_Project_.Add.resources
+C:\Users\huzai\Desktop\Windows-Form-Fiverr-3\TelepteanDarius2021 Project\PopGeorge2021 Project,\obj\Debug\PopGeorge2021_Project_.Chart.resources
+C:\Users\huzai\Desktop\Windows-Form-Fiverr-3\TelepteanDarius2021 Project\PopGeorge2021 Project,\obj\Debug\PopGeorge2021_Project_.Details.resources
+C:\Users\huzai\Desktop\Windows-Form-Fiverr-3\TelepteanDarius2021 Project\PopGeorge2021 Project,\obj\Debug\PopGeorge2021_Project_.Main.resources
+C:\Users\huzai\Desktop\Windows-Form-Fiverr-3\TelepteanDarius2021 Project\PopGeorge2021 Project,\obj\Debug\PopGeorge2021_Project_.Properties.Resources.resources
+C:\Users\huzai\Desktop\Windows-Form-Fiverr-3\TelepteanDarius2021 Project\PopGeorge2021 Project,\obj\Debug\TelepteanDarius2021 Project.csproj.GenerateResource.cache
+C:\Users\huzai\Desktop\Windows-Form-Fiverr-3\TelepteanDarius2021 Project\PopGeorge2021 Project,\obj\Debug\TelepteanDarius2021 Project.csproj.CoreCompileInputs.cache
+C:\Users\huzai\Desktop\Windows-Form-Fiverr-3\TelepteanDarius2021 Project\PopGeorge2021 Project,\obj\Debug\PopGeorge2021 Project,.exe
+C:\Users\huzai\Desktop\Windows-Form-Fiverr-3\TelepteanDarius2021 Project\PopGeorge2021 Project,\obj\Debug\PopGeorge2021 Project,.pdb
